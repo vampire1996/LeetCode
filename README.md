@@ -1,6 +1,7 @@
 # leetcode
 ## 605. Can Place Flowers
-c slution
+### c slution
+```c
 bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {
     if(n==0) return true;
     if(flowerbedSize==1)
@@ -43,7 +44,9 @@ bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {
     if(n<=0) return true;
     else return false;
 }
-c++ slution
+```
+```cpp
+### c++ slution
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {
@@ -55,4 +58,5 @@ public:
         }
         return n <= 0;
     }
+```
 };

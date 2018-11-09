@@ -1,8 +1,5 @@
-605. Can Place Flowers
-===
-
-c solution
----
+# 605. Can Place Flowers
+## c solution
 ```c
 bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {
     if(n==0) return true;

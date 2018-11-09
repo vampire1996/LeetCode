@@ -1,5 +1,5 @@
 # leetcode
-605. Can Place Flowers
+# 605. Can Place Flowers
 c slution
 bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {
     if(n==0) return true;

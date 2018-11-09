@@ -45,8 +45,8 @@ bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {
     else return false;
 }
 ```
-```cpp
 ### c++ slution
+```cpp
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {

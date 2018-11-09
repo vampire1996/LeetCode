@@ -1,4 +1,6 @@
 # 605. Can Place Flowers
+<img src="https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/1.TwoSum/problem.png"/>
+
 ## c solution
 ```c
 bool canPlaceFlowers(int* flowerbed, int flowerbedSize, int n) {

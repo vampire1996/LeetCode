@@ -1,5 +1,5 @@
 # 242. Valid Anagram
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/242.ValidAnagram/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/258.AddDigits/problem.png"/>
 
 ## c solution
 ```c

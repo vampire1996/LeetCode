@@ -34,32 +34,32 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 6
 * #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/7.ReverseInteger/README.md)
 * #### Problem 8
-* #### Problem 9 (Easy)
+* #### Problem 9 (Easy) [*Palindrome Number*]https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/9.PalindromeNumber/README.md
 * #### Problem 10
 
 ## Problem 11 - Problem 20
 
 * #### Problem 11
 * #### Problem 12
-* #### Problem 13 (Easy) [*Roman to Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/13.RomantoInteger/README.md)
-* #### Problem 14 (Easy) [*Longest Common Prefix*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/14.LongestCommonPrefix/README.md)
+* #### Problem 13 (Easy) [*Roman to Integer*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/13.RomantoInteger/README.md)
+* #### Problem 14 (Easy) [*Longest Common Prefix*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/14.LongestCommonPrefix/README.md)
 * #### Problem 15
 * #### Problem 16
 * #### Problem 17
 * #### Problem 18
 * #### Problem 19
-* #### Problem 20 (Easy) [*Valid Parentheses*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/20.ValidParentheses/README.md)
+* #### Problem 20 (Easy) [*Valid Parentheses*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/20.ValidParentheses/README.md)
 
 ## Problem 21 - Problem 30
 
-* #### Problem 21 (Easy) [*Merge Two Sorted Lists*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/21.MergeTwoSortedLists/README.md)
+* #### Problem 21 
 * #### Problem 22 
 * #### Problem 23 
 * #### Problem 24 
 * #### Problem 25
-* #### Problem 26 (Easy) [*Remove Duplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/26.RemoveDuplicates/README.md)
-* #### Problem 27 (Easy) [*Remove Element*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/27.RemoveElement/README.md)
-* #### Problem 28 (Easy) [*StrStr*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/28.StrStr/README.md)
+* #### Problem 26 (Easy) [*Remove Duplicates*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/26.RemoveDuplicatesfromSortedArray/README.md)
+* #### Problem 27 (Easy) [*Remove Element*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/27.RemoveElement/README.md)
+* #### Problem 28 (Easy) [*StrStr*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/28.%20Implement%20strStr/README.md)
 * #### Problem 29
 * #### Problem 30 
 
@@ -69,10 +69,10 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 32 (Easy)
 * #### Problem 33 (Easy)
 * #### Problem 34 (Easy)
-* #### Problem 35 (Easy) [*Search Insert*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/35.SearchInsert/README.md)
+* #### Problem 35 (Easy) [*Search Insert Position*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/35.SearchInsertPosition/README.md)
 * #### Problem 36 (Easy)
 * #### Problem 37 (Easy)
-* #### Problem 38 (Easy) [*Count And Say*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/38.CountAndSay/README.md)
+* #### Problem 38 (Easy) [*Count And Say*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/38.%20Count%20and%20Say/README.md)
 * #### Problem 39 (Easy)
 * #### Problem 40 (Easy)
 
@@ -93,12 +93,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 51 (Easy)
 * #### Problem 52 (Easy)
-* #### Problem 53 (Easy) [*Max Sub Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/53.MaxSubArray/README.md)
+* #### Problem 53 (Easy) [*Maximum Subarray*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/53.MaximumSubarray/README.md)
 * #### Problem 54 (Easy)
 * #### Problem 55 (Easy) 
 * #### Problem 56 (Easy) 
 * #### Problem 57 (Easy) 
-* #### Problem 58 (Easy) [*Length Of Last Word*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/58.LengthOfLastWord/README.md)
+* #### Problem 58 (Easy) [*Length Of Last Word*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/58.LengthofLastWord/README.md)
 * #### Problem 59 (Easy)
 * #### Problem 60 (Easy)
 
@@ -109,11 +109,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 63 (Easy) 
 * #### Problem 64 (Easy)
 * #### Problem 65 (Easy) 
-* #### Problem 66 (Easy) [*Plus One*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/66.PlusOne/README.md)
-* #### Problem 67 (Easy) [*Add Binary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/67.AddBinary/README.md)
+* #### Problem 66 (Easy) [*Plus One*](https://github.com/vampire1996/LeetCode/tree/master/Problems/1-100/66.PlusOne)
+* #### Problem 67 (Easy) [*Add Binary*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/67.%20Add%20Binary/README.md)
 * #### Problem 68 (Easy) 
-* #### Problem 69 (Easy) [*My Sqrt*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/69.MySqrt/README.md)
-* #### Problem 70 (Easy) [*Add Binary*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/70.ClimbStairs/README.md)
+* #### Problem 69 (Easy) [*Sqrt(x)*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/69.%20Sqrt-x/README.md)
+* #### Problem 70 (Easy) 
 
 ## Problem 71 - Problem 80
 
@@ -133,12 +133,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 81 (Easy)
 * #### Problem 82 (Easy)
-* #### Problem 83 (Easy) [*List Delete Duplicates*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/83.ListDeleteDuplicates/README.md) 
+* #### Problem 83 (Easy) 
 * #### Problem 84 (Easy)
 * #### Problem 85 (Easy) 
 * #### Problem 86 (Easy) 
 * #### Problem 87 (Easy) 
-* #### Problem 88 (Easy) [*Merge Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/88.MergeArray/README.md)
+* #### Problem 88 (Easy) [*Merge Sorted Array*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/88.MergeSortedArray/README.md)
 * #### Problem 89 (Easy) 
 * #### Problem 90 (Easy) 
 
@@ -153,32 +153,32 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 97 (Easy) 
 * #### Problem 98 (Easy) 
 * #### Problem 99 (Easy) 
-* #### Problem 100 (Easy) [*Is Same Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/100.IsSameTree/README.md)
+* #### Problem 100 (Easy) [*Same Tree*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/100.%20Same%20Tree/README.md)
 
 ## Problem 101 - Problem 110
 
-* #### Problem 101 (Easy) [*Is Symmetric Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/101.IsSymmetricTree/README.md)
+* #### Problem 101 (Easy) [*Symmetric Tree*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/101.SymmetricTree/README.md)
 * #### Problem 102 (Easy)
 * #### Problem 103 (Easy) 
-* #### Problem 104 (Easy) [*Tree Max Depth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/104.TreeMaxDepth/README.md)
+* #### Problem 104 (Easy) [*Maximum Depth of Binary Tree*](https://github.com/vampire1996/LeetCode/tree/master/Problems/101-200/104.MaximumDepthofBinaryTree)
 * #### Problem 105 (Easy) 
 * #### Problem 106 (Easy) 
-* #### Problem 107 (Easy) [*TreeLevel Order Bottom*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/107.TreeLevelOrderBottom/README.md)
-* #### Problem 108 (Easy) [*Sorted Array To BST*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/108.SortedArrayToBST/README.md)
+* #### Problem 107 (Easy) [*Binary Tree Level Order Traversal II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/107.BinaryTreeLevelOrderTraversal%20II/README.md)
+* #### Problem 108 (Easy) 
 * #### Problem 109 (Easy) 
-* #### Problem 110 (Easy) [*Tree Is Balanced*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/110.TreeIsBalanced/README.md)
+* #### Problem 110 (Easy) 
 
 ## Problem 111 - Problem 120
 
-* #### Problem 111 (Easy) [*Tree Min Depth*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/111.TreeMinDepth/README.md) 
-* #### Problem 112 (Easy) [*Tree Has Path Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/112.TreeHasPathSum/README.md) 
+* #### Problem 111 (Easy) 
+* #### Problem 112 (Easy) 
 * #### Problem 113 (Easy) 
 * #### Problem 114 (Easy) 
 * #### Problem 115 (Easy) 
 * #### Problem 116 (Easy) 
 * #### Problem 117 (Easy) 
-* #### Problem 118 (Easy) [*YangHui Triangle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/118.YangHuiTriangle/README.md) 
-* #### Problem 119 (Easy) [*YangHui Triangle II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/101-200/119.YangHuiTriangleII/README.md) 
+* #### Problem 118 (Easy) [*Pascal's Triangle*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/118.PascalsTriangle/README.md) 
+* #### Problem 119 (Easy) 
 * #### Problem 120 (Easy) 
 
 ## Problem 121 - Problem 130

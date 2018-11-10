@@ -1,5 +1,5 @@
 # 167. Two Sum II - Input array is sorted
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/167.TwoSumII-InputArrayIsSorted/problem.png "/>
 
 ## c solution
 ```c

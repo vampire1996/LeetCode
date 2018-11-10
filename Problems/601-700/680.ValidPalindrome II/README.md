@@ -1,6 +1,6 @@
 # 680. Valid Palindrome II
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/680.ValidPalindrome%20II/problem.png
- "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/680.ValidPalindrome%20II/problem.png"/>
+
 
 ## c solution
 ```c

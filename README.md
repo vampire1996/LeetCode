@@ -26,15 +26,15 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 1 - Problem 10
 
-* #### Problem 1 (Easy) [*Two Sum*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/1.TwoSum/README.md)
+* #### Problem 1 (Easy) [*Two Sum*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/1.TwoSum/README.md)
 * #### Problem 2
 * #### Problem 3
-* #### Problem 4 (Hard) [*Median of Two Sorted Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/4.MedianOfTwoSortedArrays/README.md)
+* #### Problem 4 (Hard)
 * #### Problem 5
 * #### Problem 6
-* #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/7.ReverseInteger/README.md)
+* #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/7.ReverseInteger/README.md)
 * #### Problem 8
-* #### Problem 9 (Easy) [*Palindrome Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/1-100/9.PalindromeNumber/README.md)
+* #### Problem 9 (Easy)
 * #### Problem 10
 
 ## Problem 11 - Problem 20

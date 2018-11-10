@@ -1,5 +1,6 @@
 # 7. Reverse Integer
 <img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+
 ## c solution
 ```c
 int reverse(int x) {
@@ -19,5 +20,4 @@ int reverse(int x) {
    if(revertedX%10!=a) return 0;//检测revertedX是否溢出
     return revertedX;
 }
-
 ```

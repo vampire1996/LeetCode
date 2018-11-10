@@ -1,5 +1,5 @@
 # 67. Add Binary
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/67.%20Add%20Binary/problem.png"/>
 
 ## c solution
 ```c

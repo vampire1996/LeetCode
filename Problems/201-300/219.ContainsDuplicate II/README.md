@@ -3,21 +3,54 @@
 
 ## c solution
 ```c
-int reverse(int x) {
-    int revertedX=0;
-    int a;
-    if(x!=0)
+/*bool containsNearbyDuplicate(int* nums, int numsSize, int k) {
+    int i=0,j=numsSize-1,h=0;
+    while(i<numsSize-1)
     {
-        while(x%10==0) x=x/10;
-    } 
-      while(x!=0)
-        {
-            revertedX= revertedX*10+x%10;
-          if(x<10)
-              a=x;
-            x=x/10;
-        } 
-   if(revertedX%10!=a) return 0;//检测revertedX是否溢出
-    return revertedX;
+        while(i<j)
+      {
+           if(nums[i]==nums[j])
+           {
+            if((j-i)<=k) return true;
+            else
+            {
+                
+                j--;
+            }
+           }
+            else
+            {
+                
+                j--;
+            }
+      }
+      i++;
+      j=numsSize-1;  
+    }
+    return false;
+}*/
+//使用hash
+bool containsNearbyDuplicate(int* nums, int numsSize, int k) {
+    if(numsSize ==0) return false;
+    if(k>numsSize) k= k% numsSize;
+    int i, min= INT_MAX, max = INT_MIN;
+    for(i=0; i<numsSize; i++){
+        min = min< nums[i]? min: nums[i];
+        max = max> nums[i]? max: nums[i];
+    }
+    int *hash = malloc((max-min+1)* sizeof(int));
+    memset(hash, -1, (max-min+1)*sizeof(int));//hash所指向的某一块内存中的后(max-min+1)*sizeof(int)个 字节的内容全部设置为-1
+    for(i=0; i<numsSize; i++){
+        if(hash[nums[i]-min] == -1){
+            hash[nums[i]-min] = i;
+        }
+        else if((i-hash[nums[i]-min]) <= k){
+            return true;
+        }
+        else{
+            hash[nums[i]-min] = i;
+        }
+    }
+    return false;
 }
 ```

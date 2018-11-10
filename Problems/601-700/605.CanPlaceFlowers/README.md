@@ -1,5 +1,5 @@
 # 605. Can Place Flowers
-<img src="https://github.com/vampire1996/-leetcode/Problems/601-700/605.CanPlaceFlowers/Problem.png "/>
+<img src="https://github.com/vampire1996/-leetcode/Problems/601-700/605.CanPlaceFlowers/Problem.png  "/>
 
 ## c solution
 ```c

@@ -1,5 +1,5 @@
 # 686. Repeated String Match
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/686.RepeatedStringMatch/problem.png"/>
 
 ## c solution
 ```c

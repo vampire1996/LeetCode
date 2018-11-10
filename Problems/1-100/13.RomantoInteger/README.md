@@ -1,6 +1,6 @@
 # 13. Roman to Integer
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/13.RomantoInteger/problem.png "/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/13.RomantoInteger/example.png "/>
+
 
 ## c solution
 ```c

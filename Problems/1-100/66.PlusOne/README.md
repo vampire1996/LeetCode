@@ -1,8 +1,10 @@
 # 66. Plus One
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/66.PlusOne/problem.png "/>
 
 ## c solution
 ```c
+/**
+ * Return an array of size *returnSize.
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* plusOne(int* digits, int digitsSize, int* returnSize) {

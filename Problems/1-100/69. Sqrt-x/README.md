@@ -1,5 +1,5 @@
 # 69. Sqrt(x)
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/69.%20Sqrt-x/problem.png "/>
 
 ## c solution
 ```c

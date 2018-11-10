@@ -1,5 +1,5 @@
 # 344. Reverse String
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/344.ReverseString/problem.png "/>
 
 ## c solution
 ```c

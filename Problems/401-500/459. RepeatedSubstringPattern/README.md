@@ -1,5 +1,5 @@
 # 459. Repeated Substring Pattern
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/459.%20RepeatedSubstringPattern/problem.png"/>
 
 ## c solution
 ```c

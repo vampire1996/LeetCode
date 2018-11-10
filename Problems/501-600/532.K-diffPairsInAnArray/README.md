@@ -1,6 +1,6 @@
 # 532. K-diff Pairs in an Array
-<img src="https://github.com/vampire1996/LeetCode/blob/master/532.K-diffPairsInAnArray/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/532.K-diffPairsInAnArray/example.png"/>
+<img src="ttps://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/532.K-diffPairsInAnArray/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/532.K-diffPairsInAnArray/example.png"/>
 
 ## c solution
 ```c

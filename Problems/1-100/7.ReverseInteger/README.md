@@ -1,5 +1,5 @@
 # 7. Reverse Integer
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/7.ReverseInteger/problem.png "/>
+
 
 ## c solution
 ```c

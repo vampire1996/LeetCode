@@ -1,5 +1,5 @@
 # 125. Valid Palindrome
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/125.ValidPalindrome/problem.png "/>
 
 ## c solution
 ```c

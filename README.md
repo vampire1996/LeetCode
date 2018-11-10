@@ -34,7 +34,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 6
 * #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/7.ReverseInteger/README.md)
 * #### Problem 8
-* #### Problem 9 (Easy) [*Palindrome Number*]https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/9.PalindromeNumber/README.md
+* #### Problem 9 (Easy) [*Palindrome Number*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/9.PalindromeNumber/README.md)
 * #### Problem 10
 
 ## Problem 11 - Problem 20
@@ -59,7 +59,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 25
 * #### Problem 26 (Easy) [*Remove Duplicates*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/26.RemoveDuplicatesfromSortedArray/README.md)
 * #### Problem 27 (Easy) [*Remove Element*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/27.RemoveElement/README.md)
-* #### Problem 28 (Easy) [*StrStr*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/28.%20Implement%20strStr/README.md)
+* #### Problem 28 (Easy) [*Implement strStr()*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/28.%20Implement%20strStr/README.md)
 * #### Problem 29
 * #### Problem 30 
 

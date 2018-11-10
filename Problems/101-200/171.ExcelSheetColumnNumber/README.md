@@ -4,5 +4,13 @@
 
 ## c solution
 ```c
-
+int titleToNumber(char* s) {
+    int len=strlen(s);
+    int num=0;
+    for(int i=len-1;i>=0;i--)
+    {
+        num+=(s[i]-'A'+1)*pow(26,len-1-i);
+    }
+    return num;
+}
 ```

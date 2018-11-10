@@ -1,5 +1,6 @@
 # 606. Construct String from Binary Tree
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/606.ConstructStringFromBinaryTree/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/606.ConstructStringFromBinaryTree/example.png"/>
 
 ## c solution
 ```c

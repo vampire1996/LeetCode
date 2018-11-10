@@ -52,6 +52,6 @@ int repeatedStringMatch(char* A, char* B) {
     
     Pos = strstr(TmpStr, B);//返回值：若B是TmpStr的子串，则返回B在TmpStr的首次出现的地址；如果B不是TmpStr的子串，则返回NULL。
     if(Pos == NULL) return -1;
-    return  MaxRepeat - (TmpStr + MaxRepeat * LenA - Pos - LenB) / LenA;//TmpStr为TmpStr首地址 加上理论上最长的字符串A的扩展 减去B在TmpStr的首                                                                                       次出现的地址 再减去B的长度 则为没有用的长度 除以lenA则为没有用到的A的重复的次数
+    return  MaxRepeat - (TmpStr + MaxRepeat * LenA - Pos - LenB) / LenA;//TmpStr为TmpStr首地址 加上理论上最长的字符串A的扩展 减去B在TmpStr的首次出现的地址 再减去B的长度 则为没有用的长度 除以lenA则为没有用到的A的重复的次数
 }
 ```

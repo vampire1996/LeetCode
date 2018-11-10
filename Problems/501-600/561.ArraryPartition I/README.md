@@ -1,5 +1,5 @@
 # 561.Arrary Partition I
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/561.ArraryPartition%20I/problem.png "/>
 
 ## c solution
 ```c

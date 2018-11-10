@@ -1,5 +1,5 @@
 # 35. Search Insert Position
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/35.SearchInsertPosition/problem.png "/>
 
 ## c solution
 ```c

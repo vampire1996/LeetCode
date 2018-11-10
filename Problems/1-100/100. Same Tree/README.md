@@ -1,5 +1,6 @@
 # 100. Same Tree
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/100.%20Same%20Tree/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/100.%20Same%20Tree/example.png "/>
 
 ## c solution
 ```c

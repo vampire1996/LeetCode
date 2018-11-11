@@ -400,12 +400,12 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 287 (Easy)
 * #### Problem 288 (Easy)
 * #### Problem 289 (Easy)
-* #### Problem 290 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/290.WordPattern/README.md)
+* #### Problem 290 (Easy) 
 
 ## Problem 291 - Problem 300
 
 * #### Problem 291 (Easy)
-* #### Problem 292 (Easy) [*Word Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/201-300/292.CanWinNim/README.md)
+* #### Problem 292 (Easy) 
 * #### Problem 293 (Easy)
 * #### Problem 294 (Easy)
 * #### Problem 295 (Easy)
@@ -419,7 +419,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 301 (Easy)
 * #### Problem 302 (Easy)
-* #### Problem 303 (Easy) [*Range Sum Query - Immutable*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/303.RangeSumQueryImmutable/README.md)
+* #### Problem 303 (Easy) 
 * #### Problem 304 (Easy)
 * #### Problem 305 (Easy)
 * #### Problem 306 (Easy)
@@ -448,7 +448,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 323 (Easy)
 * #### Problem 324 (Easy)
 * #### Problem 325 (Easy)
-* #### Problem 326 (Easy) [*Is Power Of Three*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/326.IsPowerOfThree/README.md)
+* #### Problem 326 (Easy) [*Is Power Of Three*](https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/326.PowerOfThree/README.md)
 * #### Problem 327 (Easy)
 * #### Problem 328 (Easy)
 * #### Problem 329 (Easy)
@@ -470,15 +470,15 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 341 - Problem 350
 
 * #### Problem 341 (Easy)
-* #### Problem 342 (Easy) [*Is Power Of Four*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/342.IsPowerOfFour/README.md)
+* #### Problem 342 (Easy) 
 * #### Problem 343 (Easy)
-* #### Problem 344 (Easy) [*Reverse String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/344.ReverseString/README.md)
-* #### Problem 345 (Easy) [*Reverse Vowels String*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/345.ReverseVowelsString/README.md)
+* #### Problem 344 (Easy) [*Reverse String*](https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/344.ReverseString/README.md)
+* #### Problem 345 (Easy) [*Reverse Vowels of a String*](https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/345.ReverseVowelsofAString/README.md)
 * #### Problem 346 (Easy)
 * #### Problem 347 (Easy)
 * #### Problem 348 (Easy)
-* #### Problem 349 (Easy) [*Intersection Of Two Arrays*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/349.IntersectionOfTwoArrays/README.md)
-* #### Problem 350 (Easy) [*Intersection Of Two Arrays II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/350.IntersectionOfTwoArraysII/README.md)
+* #### Problem 349 (Easy)
+* #### Problem 350 (Easy) 
 
 ## Problem 351 - Problem 360
 
@@ -501,17 +501,17 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 364 (Easy)
 * #### Problem 365 (Easy)
 * #### Problem 366 (Easy)
-* #### Problem 367 (Easy) [*Valid Perfect Square*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/367.ValidPerfectSquare/README.md)
+* #### Problem 367 (Easy) [*Valid Perfect Square*](https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/367.ValidPerfectSquare/README.md)
 * #### Problem 368 (Easy)
 * #### Problem 369 (Easy)
 * #### Problem 370 (Easy)
 
 ## Problem 371 - Problem 380
 
-* #### Problem 371 (Easy) [*Sum Of Two Integers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/371.SumOfTwoIntegers/README.md)
+* #### Problem 371 (Easy) 
 * #### Problem 372 (Easy)
 * #### Problem 373 (Easy)
-* #### Problem 374 (Easy) [*Guess Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/374.GuessNumber/README.md)
+* #### Problem 374 (Easy) 
 * #### Problem 375 (Easy)
 * #### Problem 376 (Easy)
 * #### Problem 377 (Easy)
@@ -523,13 +523,13 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 381 (Easy)
 * #### Problem 382 (Easy)
-* #### Problem 383 (Easy) [*Ransom Note*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/383.RansomNote/README.md)
+* #### Problem 383 (Easy) [*Ransom Note*](https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/383.RansomNote/README.md)
 * #### Problem 384 (Easy)
 * #### Problem 385 (Easy)
 * #### Problem 386 (Easy)
 * #### Problem 387 (Easy) [*First Uniq Char*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/387.FirstUniqChar/README.md)
 * #### Problem 388 (Easy)
-* #### Problem 389 (Easy) [*Find The Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/389.FindTheDifference/README.md)
+* #### Problem 389 (Easy) 
 * #### Problem 390 (Easy)
 
 ## Problem 391 - Problem 400
@@ -543,28 +543,28 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 397 (Easy)
 * #### Problem 398 (Easy)
 * #### Problem 399 (Easy)
-* #### Problem 400 (Easy) [*Find Nth Digit*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/301-400/400.FindNthDigit/README.md)
+* #### Problem 400 (Easy) [*Nth Digit*](https://github.com/vampire1996/LeetCode/blob/master/Problems/301-400/400.NthDigit/README.md)
 
 ## Problem 401 - Problem 410
 
-* #### Problem 401 (Easy) [*Binary Watch*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/401.BinaryWatch/README.md)
+* #### Problem 401 (Easy) 
 * #### Problem 402 (Easy)
 * #### Problem 403 (Easy)
-* #### Problem 404 (Easy) [*Tree Sum Of Left Leaves*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/404.TreeSumOfLeftLeaves/README.md)
-* #### Problem 405 (Easy) [*Number To Hex*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/405.NumberToHex/README.md)
+* #### Problem 404 (Easy) 
+* #### Problem 405 (Easy) 
 * #### Problem 406 (Easy)
 * #### Problem 407 (Easy)
 * #### Problem 408 (Easy)
-* #### Problem 409 (Easy) [*Longest Palindrome*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/409.LongestPalindrome/README.md)
+* #### Problem 409 (Easy) 
 * #### Problem 410 (Easy)
 
 ## Problem 411 - Problem 420
 
 * #### Problem 411 (Easy)
-* #### Problem 412 (Easy) [*Fizz Buzz*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/412.FizzBuzz/README.md)
+* #### Problem 412 (Easy)
 * #### Problem 413 (Easy)
-* #### Problem 414 (Easy) [*Third Maximum Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/414.ThirdMaximumNumber/README.md)
-* #### Problem 415 (Easy) [*Add Strings*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/415.AddStrings/README.md)
+* #### Problem 414 (Easy) [*Third Maximum Number*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/414.ThirdMaximumNumber/README.md)
+* #### Problem 415 (Easy) [*Add Strings*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/415.AddStrings/README.md)
 * #### Problem 416 (Easy)
 * #### Problem 417 (Easy)
 * #### Problem 418 (Easy)
@@ -579,9 +579,9 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 424 (Easy)
 * #### Problem 425 (Easy)
 * #### Problem 426 (Easy)
-* #### Problem 427 (Easy) [*Construct Quad Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/427.ConstructQuadTree/README.md)
+* #### Problem 427 (Easy) 
 * #### Problem 428 (Easy)
-* #### Problem 429 (Easy) [*Tree Level Order*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/429.TreeLevelOrder/README.md)
+* #### Problem 429 (Easy) 
 * #### Problem 430 (Easy)
 
 ## Problem 431 - Problem 440
@@ -589,24 +589,24 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 431 (Easy)
 * #### Problem 432 (Easy)
 * #### Problem 433 (Easy)
-* #### Problem 434 (Easy) [*String Count Segments*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/434.StringCountSegments/README.md)
+* #### Problem 434 (Easy) [*Number of Segments in a String*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/434.NumberOfSegmentsInaString/README.md)
 * #### Problem 435 (Easy)
 * #### Problem 436 (Easy)
-* #### Problem 437 (Easy) [*Path Sum III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/437.PathSumIII/README.md)
-* #### Problem 438 (Easy) [*String Find Anagrams*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/438.StringFindAnagrams/README.md)
+* #### Problem 437 (Easy)
+* #### Problem 438 (Easy) 
 * #### Problem 439 (Easy)
 * #### Problem 440 (Easy)
 
 ## Problem 441 - Problem 450
 
-* #### Problem 441 (Easy) [*Arranging Coins*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/441.ArrangingCoins/README.md)
+* #### Problem 441 (Easy) [*Arranging Coins*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/441.ArrangingCoins/README.md)
 * #### Problem 442 (Easy)
-* #### Problem 443 (Easy) [*String Compression*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/443.StringCompression/README.md)
+* #### Problem 443 (Easy) 
 * #### Problem 444 (Easy)
 * #### Problem 445 (Easy)
 * #### Problem 446 (Easy)
-* #### Problem 447 (Easy) [*Number Of Boomerangs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/447.NumberOfBoomerangs/README.md)
-* #### Problem 448 (Easy) [*Find Disappeared Numbers*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/448.FindDisappearedNumbers/README.md)
+* #### Problem 447 (Easy) 
+* #### Problem 448 (Easy) [*Find All Numbers Disappeared in an Array*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/448.FindAllNumbersDisappearedInAnArray/README.md)
 * #### Problem 449 (Easy)
 * #### Problem 450 (Easy)
 
@@ -614,21 +614,21 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 451 (Easy)
 * #### Problem 452 (Easy)
-* #### Problem 453 (Easy) [*Min Moves*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/453.MinMoves/README.md)
+* #### Problem 453 (Easy)
 * #### Problem 454 (Easy)
-* #### Problem 455 (Easy) [*Assign Cookies*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/455.AssignCookies/README.md)
+* #### Problem 455 (Easy) 
 * #### Problem 454 (Easy)
 * #### Problem 456 (Easy)
 * #### Problem 457 (Easy)
-* #### Problem 458 (Easy) [*Poor Pigs*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/458.PoorPigs/README.md)
-* #### Problem 459 (Easy) [*Repeated Substring Pattern*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/459.RepeatedSubstringPattern/README.md)
+* #### Problem 458 (Easy) 
+* #### Problem 459 (Easy) [*Repeated Substring Pattern*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/459.%20RepeatedSubstringPattern/README.md)
 * #### Problem 460 (Easy)
 
 ## Problem 461 - Problem 470
 
-* #### Problem 461 (Easy) [*Hamming Distance*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/461.HammingDistance/README.md)
+* #### Problem 461 (Easy) 
 * #### Problem 462 (Easy)
-* #### Problem 463 (Easy) [*Island Perimeter*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/463.IslandPerimeter/README.md)
+* #### Problem 463 (Easy) 
 * #### Problem 464 (Easy)
 * #### Problem 465 (Easy)
 * #### Problem 466 (Easy)
@@ -643,20 +643,20 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 472 (Easy)
 * #### Problem 473 (Easy)
 * #### Problem 474 (Easy)
-* #### Problem 475 (Easy) [*Heaters*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/475.Heaters/README.md)
-* #### Problem 476 (Easy) [*Number Complement*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/476.NumberComplement/README.md)
+* #### Problem 475 (Easy) 
+* #### Problem 476 (Easy) 
 * #### Problem 477 (Easy)
 * #### Problem 478 (Easy)
-* #### Problem 479 (Easy) [*Largest Palindrome Product*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/479.LargestPalindromeProduct/README.md)
+* #### Problem 479 (Easy)
 * #### Problem 480 (Easy)
 
 ## Problem 481 - Problem 490
 
 * #### Problem 481 (Easy)
-* #### Problem 482 (Easy) [*License Key Formatting*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/482.LicenseKeyFormatting/README.md)
+* #### Problem 482 (Easy)
 * #### Problem 483 (Easy)
 * #### Problem 484 (Easy)
-* #### Problem 485 (Easy) [*Max Consecutive Ones*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/485.MaxConsecutiveOnes/README.md)
+* #### Problem 485 (Easy) [*Max Consecutive Ones*](https://github.com/vampire1996/LeetCode/blob/master/Problems/401-500/485.MaxConsecutiveOnes/README.md)
 * #### Problem 486 (Easy)
 * #### Problem 487 (Easy)
 * #### Problem 488 (Easy)
@@ -666,25 +666,25 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 491 - Problem 500
 
 * #### Problem 491 (Easy)
-* #### Problem 492 (Easy) [*Construct Rectangle*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/492.ConstructRectangle/README.md)
+* #### Problem 492 (Easy) 
 * #### Problem 493 (Easy)
 * #### Problem 494 (Easy)
 * #### Problem 495 (Easy)
-* #### Problem 496 (Easy) [*NextGreater Element I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/496.NextGreaterElementI/README.md)
+* #### Problem 496 (Easy) 
 * #### Problem 497 (Easy)
 * #### Problem 498 (Easy)
 * #### Problem 499 (Easy)
-* #### Problem 500 (Easy) [*Keyboard Row*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/401-500/500.KeyboardRow/README.md)
+* #### Problem 500 (Easy) 
 
 ## Problem 501 - Problem 510
 
 * #### Problem 501 (Easy) [*Find Mode In BSTree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/501.FindModeInBSTree/README.md)
 * #### Problem 502 (Easy)
 * #### Problem 503 (Easy)
-* #### Problem 504 (Easy) [*Convert To Base 7*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/504.ConvertToBase7/README.md)
+* #### Problem 504 (Easy)
 * #### Problem 505 (Easy)
-* #### Problem 506 (Easy) [*Relative Ranks*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/506.RelativeRanks/README.md)
-* #### Problem 507 (Easy) [*Perfect Number*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/507.PerfectNumber/README.md)
+* #### Problem 506 (Easy)
+* #### Problem 507 (Easy)
 * #### Problem 508 (Easy)
 * #### Problem 509 (Easy)
 * #### Problem 510 (Easy)
@@ -700,11 +700,11 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 517 (Easy)
 * #### Problem 518 (Easy)
 * #### Problem 519 (Easy)
-* #### Problem 520 (Easy) [*Detect Capital Use*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/520.DetectCapitalUse/README.md)
+* #### Problem 520 (Easy) [*Detect Capital*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/520.DetectCapital/README.md)
 
 ## Problem 521 - Problem 530
 
-* #### Problem 521 (Easy) [*Find LUS length I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/521.FindLUSlengthI/README.md)
+* #### Problem 521 (Easy) [*Longest Uncommon Subsequence I*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/521.LongestUncommonSubsequence%20I/README.md)
 * #### Problem 522 (Easy)
 * #### Problem 523 (Easy)
 * #### Problem 524 (Easy)
@@ -713,26 +713,26 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 527 (Easy)
 * #### Problem 528 (Easy)
 * #### Problem 529 (Easy)
-* #### Problem 530 (Easy) [*Get Minimum Difference*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/530.GetMinimumDifference/README.md)
+* #### Problem 530 (Easy) 
 
 ## Problem 531 - Problem 540
 
 * #### Problem 531 (Easy)
-* #### Problem 532 (Easy) [*K diff Pairs In Array*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/532.KdiffPairsInArray/README.md)
+* #### Problem 532 (Easy) [*K-diff Pairs in an Array*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/532.K-diffPairsInAnArray/README.md)
 * #### Problem 533 (Easy)
 * #### Problem 534 (Easy)
 * #### Problem 535 (Easy)
 * #### Problem 536 (Easy)
 * #### Problem 537 (Easy)
-* #### Problem 538 (Easy) [*BST To Greater Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/538.BSTToGreaterTree/README.md)
+* #### Problem 538 (Easy) 
 * #### Problem 539 (Easy)
 * #### Problem 540 (Easy)
 
 ## Problem 541 - Problem 550
 
-* #### Problem 541 (Easy) [*Reverse String II*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/541.ReverseStringII/README.md)
+* #### Problem 541 (Easy) [*Reverse String II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/541.ReverseString%20II/README.md)
 * #### Problem 542 (Easy)
-* #### Problem 543 (Easy) [*Diameter Of Binary Tree*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/543.DiameterOfBinaryTree/README.md)
+* #### Problem 543 (Easy) 
 * #### Problem 544 (Easy)
 * #### Problem 545 (Easy)
 * #### Problem 546 (Easy)
@@ -743,25 +743,25 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 551 - Problem 560
 
-* #### Problem 551 (Easy) [*Student Attendance Record I*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/551.StudentAttendanceRecordI/README.md)
+* #### Problem 551 (Easy) [*Student Attendance Record I*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/551.StudentAttendanceRecord%20I/README.md)
 * #### Problem 552 (Easy)
 * #### Problem 553 (Easy)
 * #### Problem 554 (Easy)
 * #### Problem 555 (Easy)
 * #### Problem 556 (Easy)
-* #### Problem 557 (Easy) [*Reverse String III*](https://github.com/Peefy/PeefyLeetCode/blob/master/doc/501-600/557.ReverseStringIII/README.md)
+* #### Problem 557 (Easy) [*Reverse Words in a String III*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/557.ReverseWordsInAString%20III/README.md)
 * #### Problem 558 (Easy)
 * #### Problem 559 (Easy)
 * #### Problem 560 (Easy)
 
 ## Problem 561 - Problem 570
 
-* #### Problem 561 (Easy)
+* #### Problem 561 (Easy) [*Arrary Partition I*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/561.ArraryPartition%20I/README.md)
 * #### Problem 562 (Easy)
 * #### Problem 563 (Easy)
 * #### Problem 564 (Easy)
 * #### Problem 565 (Easy)
-* #### Problem 566 (Easy)
+* #### Problem 566 (Easy) [*Reshape the Matrix*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/566.ReshapeTheMatrix/README.md)
 * #### Problem 567 (Easy)
 * #### Problem 568 (Easy)
 * #### Problem 569 (Easy)
@@ -782,7 +782,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 581 - Problem 590
 
-* #### Problem 581 (Easy)
+* #### Problem 581 (Easy) [*Shortest Unsorted Continuous Subarray*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/581.ShortestUnsortedContinuousSubarray/README.md)
 * #### Problem 582 (Easy)
 * #### Problem 583 (Easy)
 * #### Problem 584 (Easy)
@@ -812,8 +812,8 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 602 (Easy)
 * #### Problem 603 (Easy)
 * #### Problem 604 (Easy)
-* #### Problem 605 (Easy) [*Can Place Flowers*](https://github.com/vampire1996/-leetcode/blob/master/Problems/601-700/605.CanPlaceFlowers/README.md)
-* #### Problem 606 (Easy)
+* #### Problem 605 (Easy) [*Can Place Flowers*](https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/605.CanPlaceFlowers/README.md)
+* #### Problem 606 (Easy) [*Construct String from Binary Tree*](https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/606.ConstructStringFromBinaryTree/README.md)
 * #### Problem 607 (Easy)
 * #### Problem 608 (Easy)
 * #### Problem 609 (Easy)
@@ -870,6 +870,71 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 648 (Easy)
 * #### Problem 649 (Easy)
 * #### Problem 650 (Easy)
+
+## Problem 651 - Problem 660
+
+* #### Problem 651 (Easy)
+* #### Problem 652 (Easy)
+* #### Problem 653 (Easy)
+* #### Problem 654 (Easy)
+* #### Problem 655 (Easy)
+* #### Problem 656 (Easy)
+* #### Problem 657 (Easy) [*Robot Return to Origin*](https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/657.RobotReturnToOrigin/README.md)
+* #### Problem 658 (Easy)
+* #### Problem 659 (Easy)
+* #### Problem 660 (Easy)
+
+## Problem 661 - Problem 660
+
+* #### Problem 661 (Easy)
+* #### Problem 662 (Easy)
+* #### Problem 663 (Easy)
+* #### Problem 664 (Easy)
+* #### Problem 665 (Easy)
+* #### Problem 666 (Easy)
+* #### Problem 667 (Easy)
+* #### Problem 668 (Easy)
+* #### Problem 669 (Easy)
+* #### Problem 670 (Easy)
+
+## Problem 671 - Problem 680
+
+* #### Problem 671 (Easy)
+* #### Problem 672 (Easy)
+* #### Problem 673 (Easy)
+* #### Problem 674 (Easy)
+* #### Problem 675 (Easy)
+* #### Problem 676 (Easy)
+* #### Problem 677 (Easy)
+* #### Problem 678 (Easy)
+* #### Problem 679 (Easy)
+* #### Problem 680 (Easy) [*Valid Palindrome II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/680.ValidPalindrome%20II/README.md)
+
+## Problem 681 - Problem 690
+
+* #### Problem 681 (Easy)
+* #### Problem 682 (Easy)
+* #### Problem 683 (Easy)
+* #### Problem 684 (Easy)
+* #### Problem 685 (Easy)
+* #### Problem 686 (Easy) [*686. Repeated String Match*](https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/686.RepeatedStringMatch/README.md)
+* #### Problem 687 (Easy)
+* #### Problem 688 (Easy)
+* #### Problem 689 (Easy)
+* #### Problem 690 (Easy)
+
+## Problem 691 - Problem 700
+
+* #### Problem 691 (Easy)
+* #### Problem 692 (Easy)
+* #### Problem 693 (Easy)
+* #### Problem 694 (Easy)
+* #### Problem 695 (Easy)
+* #### Problem 696 (Easy)
+* #### Problem 697 (Easy)
+* #### Problem 698 (Easy)
+* #### Problem 699 (Easy)
+* #### Problem 700 (Easy)
 
 ### LICENSE
 

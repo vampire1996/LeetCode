@@ -34,7 +34,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 6
 * #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/7.ReverseInteger/README.md)
 * #### Problem 8
-* #### Problem 9 (Easy) [*Palindrome Number-Unsolved*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/9.PalindromeNumber/README.md)
+* #### Problem 9 (Easy) [*Palindrome Number*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/9.PalindromeNumber/README.md)
 * #### Problem 10
 
 ## Problem 11 - Problem 20

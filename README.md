@@ -109,7 +109,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 63 (Easy) 
 * #### Problem 64 (Easy)
 * #### Problem 65 (Easy) 
-* #### Problem 66 (Easy) [*Plus One*](https://github.com/vampire1996/LeetCode/tree/master/Problems/1-100/66.PlusOne)
+* #### Problem 66 (Easy) [*Plus One*](https://github.com/vampire1996/LeetCode/tree/master/Problems/1-100/66.PlusOne/README.md)
 * #### Problem 67 (Easy) [*Add Binary*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/67.%20Add%20Binary/README.md)
 * #### Problem 68 (Easy) 
 * #### Problem 69 (Easy) [*Sqrt(x)*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/69.%20Sqrt-x/README.md)

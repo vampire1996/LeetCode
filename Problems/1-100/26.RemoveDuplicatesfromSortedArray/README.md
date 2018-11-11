@@ -1,4 +1,4 @@
-26. Remove Duplicates from Sorted Array
+### 26. Remove Duplicates from Sorted Array
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/26.RemoveDuplicatesfromSortedArray/problem.png "/>
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/26.RemoveDuplicatesfromSortedArray/clarification.png "/>
 

@@ -3,5 +3,23 @@
 
 ## c solution
 ```c
-
+bool isPalindrome(int x) {
+    if(x<0) return false;
+    if(x<10) return true;
+    int reverseX=0;
+    int temp=x;
+    while(temp!=0)
+    {
+       reverseX*=10;
+       reverseX+=temp%10;
+       temp/=10;
+    }
+    while(x!=0)
+    {
+        if(reverseX%10!=x%10) return false;
+        reverseX/=10;
+        x/=10;
+    }
+    return true;
+}
 ```

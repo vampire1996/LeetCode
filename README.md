@@ -281,7 +281,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 195 (Easy) 
 * #### Problem 196 (Easy)  
 * #### Problem 197 (Easy) 
-* #### Problem 198 (Easy) 
+* #### Problem 198 (Easy) [*198. House Robber*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/198.%20House%20Robber/README.md)
 * #### Problem 199 (Easy)
 * #### Problem 200 (Easy)
 

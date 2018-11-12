@@ -3,58 +3,16 @@
 
 ## c solution
 ```c
-int min(int a,int b)
-{
-    return a<b?a:b;
+int rob(int* nums, int numsSize) {
+    if(numsSize==0) return 0;
+    if(numsSize==1) return nums[0];
+    int *max;//用于存放每个位置可能的rob最大值
+    max=malloc(sizeof(int)*numsSize);
+    max[0]=nums[0],max[1]=nums[0]>nums[1]?nums[0]:nums[1];
+   for(int i=2;i<numsSize;i++)
+   {
+       max[i]=(nums[i]+max[i-2])>max[i-1]?(nums[i]+max[i-2]):max[i-1];
+   }
+    return max[numsSize-1]>max[numsSize-2]?max[numsSize-1]:max[numsSize-2];
 }
-//c solution 72ms
-int max1(int a,int b)
-{
-    return a>b?a:b;
-}
-int maxArea(int* height, int heightSize) {
-    int i=0,j=heightSize-1;
-    int max=min(height[i],height[j])*(j-i);
-    int temp1=height[j],temp2=height[i];
-    while(j>0)
-    {
-        if(height[j]>temp1||j==heightSize-1)//比之后最大高度大则进行计算
-        while(i<j)
-       {
-        if(height[++i]>temp2)//比之前最大高度大则进行计算
-            max=max1(min(height[i],height[j])*(j-i),max);
-        }
-        i=0;
-        temp1=max1(height[j],temp1);
-        temp2=max1(height[i],temp2);
-        max=max1(min(height[i],height[--j])*(j-i),max);
-    }
-    return max;
-}
-```
-## python solution
-```python
-#python solution 36ms
-class Solution(object):
-    def maxArea(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-        mx_quantity = -1
-        i = 0
-        j = len(height) - 1
-        while i < j:
-            mn = min(height[i], height[j])
-            
-            cur_quantity = mn * (j-i)
-            if cur_quantity > mx_quantity:
-                mx_quantity = cur_quantity
-            
-            if mn == height[i]:#左边和右边高度谁小在谁那边步进一个单位
-                i+=1
-            else:
-                j -= 1
-        
-        return cur_quantity if cur_quantity > mx_quantity else mx_quantity
 ```

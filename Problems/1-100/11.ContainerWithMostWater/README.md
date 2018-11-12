@@ -1,5 +1,5 @@
 # 11. Container With Most Water
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/198.%20House%20Robber/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/11.ContainerWithMostWater/problem.png "/>
 
 ## c solution
 ```c

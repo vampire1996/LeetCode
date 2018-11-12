@@ -32,7 +32,7 @@ int maxArea(int* height, int heightSize) {
     return max;
 }
 ```
-## c solution
+## python solution
 ```python
 #python solution 36ms
 class Solution(object):

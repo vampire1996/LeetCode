@@ -28,7 +28,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 1 (Easy) [*Two Sum*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/1.TwoSum/README.md)
 * #### Problem 2 (Medium) [*Add Two Numbers*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/2.AddTwoNumbers/README.md)
-* #### Problem 3
+* #### Problem 3 (Medium) [*3. Longest Substring Without Repeating Characters*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/3.LongestSubstringWithoutRepeatingCharacters/README.md)
 * #### Problem 4
 * #### Problem 5
 * #### Problem 6

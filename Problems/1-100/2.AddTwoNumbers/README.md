@@ -1,5 +1,5 @@
 # 2. Add Two Numbers
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/2.AddTwoNumbers/problem.png"/>
+
 
 ## c solution
 ```c

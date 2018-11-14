@@ -12,7 +12,7 @@ class Solution:
         """
         """
         
-        
+        #深度优先搜索 DFS
         res=[]
         def permutation(A,path,res): 
           if not A:#判断A是否为空

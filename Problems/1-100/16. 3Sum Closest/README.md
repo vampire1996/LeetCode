@@ -1,5 +1,5 @@
 # 16. 3Sum Closest
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/46.Permutations/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/16.%203Sum%20Closest/problem.png"/>
 
 ## python solution
 ```python

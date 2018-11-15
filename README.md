@@ -224,7 +224,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 151 (Easy)
 * #### Problem 152 (Easy)
-* #### Problem 153 (Easy)
+* #### Problem 153 (Medium) [*Find Minimum in Rotated Sorted Array*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/README.md)
 * #### Problem 154 (Easy)
 * #### Problem 155 (Easy) 
 * #### Problem 156 (Easy)

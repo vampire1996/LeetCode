@@ -1,6 +1,6 @@
 # 153. Find Minimum in Rotated Sorted Array
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/696.%20Count%20Binary%20Substrings/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/696.%20Count%20Binary%20Substrings/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/problem.png"/>
+
 
 ## python solution
 ```python

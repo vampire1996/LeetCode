@@ -1,5 +1,6 @@
 # 696. Count Binary Substrings
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/46.Permutations/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/696.%20Count%20Binary%20Substrings/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/601-700/696.%20Count%20Binary%20Substrings/example.png"/>
 
 ## python solution
 ```python

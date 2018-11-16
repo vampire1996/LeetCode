@@ -1,5 +1,5 @@
 # 59. Spiral Matrix II
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/49.GroupAnagrams/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/59.%20Spiral%20Matrix%20II/problem.png"/>
 
 ## python solution
 ```python

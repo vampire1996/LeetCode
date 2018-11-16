@@ -1,5 +1,5 @@
 # 54. Spiral Matrix
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/59.%20Spiral%20Matrix%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/54.%20Spiral%20Matrix/problem.png"/>
 
 ## python solution
 ```python

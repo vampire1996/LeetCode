@@ -95,7 +95,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 52 (Easy)
 * #### Problem 53 (Easy) [*Maximum Subarray*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/53.MaximumSubarray/README.md)
 * #### Problem 54 (Medium) [*Spiral Matrix*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/54.%20Spiral%20Matrix/README.md)
-* #### Problem 55 (Easy) 
+* #### Problem 55 (Medium) [*Jump Game*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/55.%20Jump%20Game/README.md)
 * #### Problem 56 (Easy) 
 * #### Problem 57 (Easy) 
 * #### Problem 58 (Easy) [*Length Of Last Word*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/58.LengthofLastWord/README.md)

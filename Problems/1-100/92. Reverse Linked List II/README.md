@@ -1,6 +1,7 @@
 # 92. Reverse Linked List II
 
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/92.%20Reverse%20Linked%20List%20II/problem.png"/>
+## 思路
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/92.%20Reverse%20Linked%20List%20II/1.jpg"/>
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/92.%20Reverse%20Linked%20List%20II/2.jpg"/>
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/92.%20Reverse%20Linked%20List%20II/3.jpg"/>

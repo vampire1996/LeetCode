@@ -145,7 +145,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 91 - Problem 100
 
 * #### Problem 91 (Easy)
-* #### Problem 92 (Easy)
+* #### Problem 92 (Medium) [*Reverse Linked List II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/92.%20Reverse%20Linked%20List%20II/README.md)
 * #### Problem 93 (Easy) 
 * #### Problem 94 (Easy)
 * #### Problem 95 (Easy) 

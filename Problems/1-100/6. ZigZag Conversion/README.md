@@ -1,5 +1,6 @@
 # 6. ZigZag Conversion
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/56.%20Merge%20Intervals/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/6.%20ZigZag%20Conversion/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/6.%20ZigZag%20Conversion/example.png"/>
 
 ## python solution
 ```python

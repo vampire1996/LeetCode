@@ -1,5 +1,6 @@
 # 12. Integer to Roman
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/12.%20Integer%20to%20Roman/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/12.%20Integer%20to%20Roman/example.png"/>
 
 ## c solution
 ```c

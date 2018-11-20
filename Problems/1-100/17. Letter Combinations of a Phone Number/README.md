@@ -1,5 +1,5 @@
 # 17. Letter Combinations of a Phone Number
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/problem.png"/>
 
 ## python solution
 ```python

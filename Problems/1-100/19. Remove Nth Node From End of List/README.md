@@ -1,5 +1,5 @@
 # 19. Remove Nth Node From End of List
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/problem.png"/>
 
 ## python solution
 ```python

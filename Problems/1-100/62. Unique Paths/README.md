@@ -1,5 +1,8 @@
 # 62. Unique Paths
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/102.%20Binary%20Tree%20Level%20Order%20Traversal/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/62.%20Unique%20Paths/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/62.%20Unique%20Paths/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/62.%20Unique%20Paths/递归和迭代.png"/>
+
 
 ## python solution
 ```python

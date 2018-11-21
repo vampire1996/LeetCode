@@ -1,5 +1,5 @@
 # 22. Generate Parentheses
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/14.LongestCommonPrefix/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/22.%20Generate%20Parentheses/problem.png"/>
 
 ## python3 solution
 ```python3
@@ -12,6 +12,7 @@ class Solution:
             if right >= left >= 0:
                 if not right:
                     yield p
+                #q 用于记录返回的q   
                 for q in generate(p + '(', left-1, right): yield q
                 for q in generate(p + ')', left, right-1): yield q
         return list(generate('', n, n))

@@ -53,7 +53,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 21 - Problem 30
 
 * #### Problem 21 
-* #### Problem 22 
+* #### Problem 22 (Medium) [*Generate Parentheses*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/22.%20Generate%20Parentheses/README.md)
 * #### Problem 23 
 * #### Problem 24 
 * #### Problem 25

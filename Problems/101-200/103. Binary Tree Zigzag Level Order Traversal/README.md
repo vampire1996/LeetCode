@@ -1,5 +1,5 @@
 # 103. Binary Tree Zigzag Level Order Traversal
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/102.%20Binary%20Tree%20Level%20Order%20Traversal/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/problem.png"/>
 
 ## python solution
 ```python

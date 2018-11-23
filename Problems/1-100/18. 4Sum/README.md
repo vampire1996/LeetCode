@@ -4,6 +4,9 @@
 
 ## python solution
 ```python
+"""
+时间复杂度o(n^3)
+"""
 class Solution(object):
     def fourSum(self, nums, target):
         """

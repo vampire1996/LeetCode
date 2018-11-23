@@ -1,5 +1,5 @@
 # 203. Remove Linked List Elements
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/203.%20Remove%20Linked%20List%20Elements/problem.png"/>
 
 ## python solution
 ```python

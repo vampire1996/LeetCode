@@ -1,5 +1,6 @@
 # 205. Isomorphic Strings
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/203.%20Remove%20Linked%20List%20Elements/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/205.%20Isomorphic%20Strings/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/205.%20Isomorphic%20Strings/example.png"/>
 
 ## c solution
 ```c

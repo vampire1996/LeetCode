@@ -1,6 +1,6 @@
 # 18. 4Sum
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/205.%20Isomorphic%20Strings/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/205.%20Isomorphic%20Strings/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/18.%204Sum/problem.png"/>
+
 
 ## python solution
 ```python

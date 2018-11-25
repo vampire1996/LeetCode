@@ -119,7 +119,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 71 (Easy) [*Climbing Stairs*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/70.%20Climbing%20Stairs/README.md)
 * #### Problem 72 (Easy)
-* #### Problem 73 (Easy) 
+* #### Problem 73 (Medium) [*Set Matrix Zeroes*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/73.%20Set%20Matrix%20Zeroes/README.md) 
 * #### Problem 74 (Easy)
 * #### Problem 75 (Easy) 
 * #### Problem 76 (Easy) 

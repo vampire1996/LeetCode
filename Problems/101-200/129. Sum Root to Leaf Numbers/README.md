@@ -1,5 +1,6 @@
 # 129. Sum Root to Leaf Numbers
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/129.%20Sum%20Root%20to%20Leaf%20Numbers/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/129.%20Sum%20Root%20to%20Leaf%20Numbers/example.png"/>
 
 
 ## python solution

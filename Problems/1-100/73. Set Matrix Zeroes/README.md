@@ -1,6 +1,6 @@
 # 73. Set Matrix Zeroes
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/129.%20Sum%20Root%20to%20Leaf%20Numbers/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/129.%20Sum%20Root%20to%20Leaf%20Numbers/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/73.%20Set%20Matrix%20Zeroes/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/73.%20Set%20Matrix%20Zeroes/example.png"/>
 
 
 ## python solution

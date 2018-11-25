@@ -1,5 +1,5 @@
 # 141. Linked List Cycle
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/141.%20Linked%20List%20Cycle/problem.png"/>
 
 ## python solution
 ```python

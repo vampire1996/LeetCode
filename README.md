@@ -133,7 +133,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 81 (Easy)
 * #### Problem 82 (Easy)
-* #### Problem 83 (Easy) 
+* #### Problem 83 (Easy) [*Remove Duplicates from Sorted List*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/83.%20Remove%20Duplicates%20from%20Sorted%20List/README.md)
 * #### Problem 84 (Easy)
 * #### Problem 85 (Easy) 
 * #### Problem 86 (Easy) 

@@ -2,7 +2,7 @@
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/101.SymmetricTree/problem.png "/>
 
 ## python solution
-```pyhton
+```python
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):
@@ -43,7 +43,7 @@ class Solution(object):
 ```
 
 ## python3 solution
-```pyhton3
+```python3
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):

@@ -1,6 +1,6 @@
 # 108. Convert Sorted Array to Binary Search Tree
 <img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/example.png"/>
+
 
 
 ## python solution

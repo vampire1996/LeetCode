@@ -1,5 +1,5 @@
 # 143. Reorder List
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/101.SymmetricTree/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/143.%20Reorder%20List/problem.png"/>
 
 ## python solution
 ```python

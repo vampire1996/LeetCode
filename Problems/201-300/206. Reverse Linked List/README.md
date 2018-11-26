@@ -1,5 +1,5 @@
 # 206. Reverse Linked List
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/96.%20Unique%20Binary%20Search%20Trees/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/206.%20Reverse%20Linked%20List/problem.png"/>
 
 ## python solution
 ```python

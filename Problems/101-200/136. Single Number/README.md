@@ -15,7 +15,7 @@ class Solution(object):
         1 ^ 1 ^ 1 = 1
         1 ^ 0 ^ 1 = 0
         0 ^ 1 ^ 0 = 1
-        0 ^ 0 ^ 0 = 1
+        0 ^ 0 ^ 0 = 0
         """
         #runtime O(n) no extra space
         for i in nums[1:]:

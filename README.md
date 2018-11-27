@@ -104,7 +104,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 61 - Problem 70
 
-* #### Problem 61 (Easy)
+* #### Problem 61 (Medium) [*Rotate List*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/61.%20Rotate%20List/README.md)
 * #### Problem 62 (Medium) [*Unique Paths*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/62.%20Unique%20Paths/README.md)
 * #### Problem 63 (Easy) 
 * #### Problem 64 (Easy)

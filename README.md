@@ -80,7 +80,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 41 (Easy)
 * #### Problem 42 (Easy)
-* #### Problem 43 (Easy)
+* #### Problem 43 (Medium) [*Multiply Strings*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/43.%20Multiply%20Strings/README.md)
 * #### Problem 44 (Easy)
 * #### Problem 45 (Easy) 
 * #### Problem 46 (Medium) [*Permutations*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/46.Permutations/README.md)

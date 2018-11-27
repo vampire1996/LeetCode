@@ -1,6 +1,6 @@
 # 105. Construct Binary Tree from Preorder and Inorder Traversal
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/60.%20Permutation%20Sequence/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/60.%20Permutation%20Sequence/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/problem.png"/>
+
 
 ## python solution
 ```python

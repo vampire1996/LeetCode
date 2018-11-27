@@ -26,7 +26,7 @@ char* intToRoman(int num) {
     return s;
 }
 ```
-## pyhton solution
+## python solution
 ```python
 class Solution:
     def intToRoman(self, num):

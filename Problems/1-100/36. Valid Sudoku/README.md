@@ -1,5 +1,8 @@
 # 36. Valid Sudoku
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/16.%203Sum%20Closest/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/36.%20Valid%20Sudoku/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/36.%20Valid%20Sudoku/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/36.%20Valid%20Sudoku/example2.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/36.%20Valid%20Sudoku/note.png"/>
 
 ## python solution
 ```python

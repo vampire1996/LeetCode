@@ -50,3 +50,33 @@ class Solution(object):
             pre.next=None
         return dummy.next         
 ```
+
+## python3 solution
+```python3
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def deleteDuplicates(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if not head:return head
+        dummy=ListNode(0)
+        dummy.next=head
+        pre=dummy
+        cur=pre.next
+        while cur:
+            while cur.next and cur.val==cur.next.val:
+                cur=cur.next
+            if pre.next==cur:
+                pre=pre.next
+            else:
+                pre.next=cur.next
+            cur=cur.next
+        return dummy.next   
+```

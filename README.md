@@ -121,7 +121,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 72 (Easy)
 * #### Problem 73 (Medium) [*Set Matrix Zeroes*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/73.%20Set%20Matrix%20Zeroes/README.md) 
 * #### Problem 74 (Easy)
-* #### Problem 75 (Easy) 
+* #### Problem 75 (Medium) [*Sort Colors*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/75.%20Sort%20Colors/README.md) 
 * #### Problem 76 (Easy) 
 * #### Problem 77 (Easy) 
 * #### Problem 78 (Easy) 

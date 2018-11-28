@@ -1,5 +1,5 @@
 # 5. Longest Palindromic Substring
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/5.%20Longest%20Palindromic%20Substring/problem.png"/>
 
 ## python solution
 ```python

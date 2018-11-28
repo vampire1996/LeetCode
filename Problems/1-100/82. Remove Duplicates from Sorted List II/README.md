@@ -3,131 +3,80 @@
 
 ## python solution
 ```python
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
 class Solution(object):
-    def longestPalindrome(self, s):
+    def deleteDuplicates(self, head):
         """
-        :type s: str
-        :rtype: str
+        :type head: ListNode
+        :rtype: ListNode
         """
         """
         思路整理
-        s[i]从s的第二个元素开始 从右向左扫描
-        1)若s[i+1]==s[i-1]  其左右指针依次向右拓展 如:   <----bb---->
-        2)若s[i]==s[i-1]  其左右指针依次向右拓展 如:   <----bb---->
-        记录最长的right-left
-        注意:以上两种情况应分别讨论 而不是对立的 反例:aaaa
+        Input: 1->1->1->2->3
+        Output: 2->3
+        pre->1->1->1->2->3 cur=1->1->1->2->3
+        若 cur.val==cur.next.val 则pre->1->2->3 cur=1->2->3  
+        temp=1
+        若 cur.val==temp 则pre->2->3 cur=2->3
         """
-        l=len(s)
-        i=1
-        leftPal=0
-        rightPal=0
-        while i<l:
-            if i<l-1 and s[i+1]==s[i-1]:
-                left=i-1
-                right=i+1
-                while left>=0 and right<l:
-                    if s[right]==s[left]:
-                        m=left
-                        n=right
-                        left-=1
-                        right+=1
-                    else: break
-                if n-m>rightPal-leftPal:
-                        rightPal=n
-                        leftPal=m 
-            if s[i]==s[i-1]:
-                left=i-1
-                right=i
-                while left>=0 and right<l:
-                    if s[right]==s[left]:
-                        m=left
-                        n=right
-                        left-=1
-                        right+=1
-                    else:  break 
-                if n-m>rightPal-leftPal:
-                        rightPal=n
-                        leftPal=m
-            i=i+1             
-        return s[leftPal:rightPal+1]
+        if not head:
+            return head
+        dummy=ListNode(0)
+        dummy.next=head
+        pre=dummy
+        cur=pre.next
+        temp=0.1
+        while cur.next:
+            if cur.val==cur.next.val:
+                temp=cur.val
+                if cur.next.next:
+                    pre.next=cur.next.next
+                    cur=pre.next
+                else:
+                    pre.next=None
+                    break
+            elif cur.val==temp:
+                pre.next=cur.next
+                cur=pre.next
+            else:
+                pre=pre.next
+                cur=pre.next
+        if cur.val==temp:  
+            pre.next=None
+        return dummy.next         
 ```
 
 ## python3 solution
 ```python3
-class Solution:
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        #超时了
-        if not s:return s
-        def isPalindrome(left,right):
-            i=left
-            j=right
-            while i<j:
-                if s[i]!=s[j]:
-                    return False
-                i+=1
-                j-=1
-            return True   
-        l=len(s)
-        left=0
-        right=l-1
-        leftPal=0
-        rightPal=0
-        while left<l:
-            right=l-1
-            while left<right:
-                if s[left]==s[right]:
-                    if isPalindrome(left,right):
-                        if right-left>rightPal-leftPal:
-                            rightPal=right
-                            leftPal=left
-                        break
-                right-=1            
-            left+=1            
-        return s[leftPal:rightPal+1]     
-```
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
 
-## c solution
-```c
-void expand(char* s,int a,int b,int len,int *lo,int *hi)
-{
-    int left=a,right=b;
-    int m=0,n=0;
-    while(left>=0&&right<len)
-    {  
-        if(s[left]==s[right])
-        {
-            m=left;
-            n=right;
-            left--;
-            right++;
-        } 
-        else break;
-    }
-    if(*hi-*lo<n-m)
-    {
-        *hi=n;
-        *lo=m;
-    }
-    
-}
-char* longestPalindrome(char* s) {
-    int len=strlen(s);
-    int lo=0,hi=0;
-    if(len < 2) return s;
-    for(int i=0;i<len-1;i++)
-    {
-        //分别讨论回文字符串长度为偶数和奇数的情况
-        expand(s,i,i,len,&lo,&hi);
-        expand(s,i,i+1,len,&lo,&hi);
-    }  
-    
-    char *sub=(char*)malloc(sizeof(char)*(hi-lo+2));
-    memcpy(sub, s+lo, sizeof(char)*(hi-lo+1));
-    sub[hi-lo+1]='\0';
-    return sub;
-}
+class Solution:
+    def deleteDuplicates(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if not head:return head
+        dummy=ListNode(0)
+        dummy.next=head
+        pre=dummy
+        cur=pre.next
+        while cur:
+            while cur.next and cur.val==cur.next.val:
+                cur=cur.next
+            if pre.next==cur:
+                pre=pre.next
+            else:
+                pre.next=cur.next
+            cur=cur.next
+        return dummy.next   
 ```

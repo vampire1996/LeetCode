@@ -1,5 +1,5 @@
 # 111. Minimum Depth of Binary Tree
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/100.%20Same%20Tree/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/111.%20Minimum%20Depth%20of%20Binary%20Tree/problem.png"/>
 
 
 ## python solution

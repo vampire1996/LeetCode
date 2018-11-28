@@ -1,5 +1,5 @@
 # 82. Remove Duplicates from Sorted List II
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II/problem.png"/>
 
 ## python solution
 ```python

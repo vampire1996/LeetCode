@@ -1,5 +1,5 @@
 # 21. Merge Two Sorted Lists
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/21.%20Merge%20Two%20Sorted%20Lists/problem.png"/>
 
 ## python solution
 ```python

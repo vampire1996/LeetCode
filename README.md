@@ -147,7 +147,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 91 (Easy)
 * #### Problem 92 (Medium) [*Reverse Linked List II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/92.%20Reverse%20Linked%20List%20II/README.md)
 * #### Problem 93 (Easy) 
-* #### Problem 94 (Easy)
+* #### Problem 94 (Medium) [*Binary Tree Inorder Traversal*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/94.%20Binary%20Tree%20Inorder%20Traversal/README.md)
 * #### Problem 95 (Easy) 
 * #### Problem 96 (Medium) [*Unique Binary Search Trees*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/96.%20Unique%20Binary%20Search%20Trees/README.md)
 * #### Problem 93 (Easy) 

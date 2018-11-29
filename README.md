@@ -33,7 +33,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 5 (Medium) [*Longest Palindromic Substring*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/5.%20Longest%20Palindromic%20Substring/README.md)
 * #### Problem 6 (Medium) [*ZigZag Conversion*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/6.%20ZigZag%20Conversion/README.md)
 * #### Problem 7 (Easy) [*Reverse Integer*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/7.ReverseInteger/README.md)
-* #### Problem 8
+* #### Problem 8 (Medium) [*String to Integer (atoi)*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/8.%20String%20to%20Integer%20-atoi/README.md)
 * #### Problem 9 (Easy) [*Palindrome Number*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/9.PalindromeNumber/README.md)
 * #### Problem 10
 

@@ -4,131 +4,75 @@
 ## python solution
 ```python
 class Solution(object):
-    def longestPalindrome(self, s):
+    def myAtoi(self, str):
         """
-        :type s: str
-        :rtype: str
+        :type str: str
+        :rtype: int
         """
-        """
-        思路整理
-        s[i]从s的第二个元素开始 从右向左扫描
-        1)若s[i+1]==s[i-1]  其左右指针依次向右拓展 如:   <----bb---->
-        2)若s[i]==s[i-1]  其左右指针依次向右拓展 如:   <----bb---->
-        记录最长的right-left
-        注意:以上两种情况应分别讨论 而不是对立的 反例:aaaa
-        """
-        l=len(s)
-        i=1
-        leftPal=0
-        rightPal=0
-        while i<l:
-            if i<l-1 and s[i+1]==s[i-1]:
-                left=i-1
-                right=i+1
-                while left>=0 and right<l:
-                    if s[right]==s[left]:
-                        m=left
-                        n=right
-                        left-=1
-                        right+=1
-                    else: break
-                if n-m>rightPal-leftPal:
-                        rightPal=n
-                        leftPal=m 
-            if s[i]==s[i-1]:
-                left=i-1
-                right=i
-                while left>=0 and right<l:
-                    if s[right]==s[left]:
-                        m=left
-                        n=right
-                        left-=1
-                        right+=1
-                    else:  break 
-                if n-m>rightPal-leftPal:
-                        rightPal=n
-                        leftPal=m
-            i=i+1             
-        return s[leftPal:rightPal+1]
+        if not str:return 0
+        l=len(str)
+        integer=0
+        i=0
+        flag=1
+        while i<l and str[i]==' ':i+=1
+        if i==l:return 0 
+        if  str[i]=='+' or str[i]=='-':
+            flag=1-(str[i]=='-')*2
+            i=i+1
+        if i==l:return 0 
+        while i<l and ord(str[i])>=ord('0') and ord(str[i])<=ord('9'):
+            integer=integer*10+ord(str[i])-ord('0')
+            i+=1
+        if integer>2147483647:
+                if flag==1:return 2147483647
+                else:return -2147483648
+        return integer*flag    
 ```
 
 ## python3 solution
 ```python3
 class Solution:
-    def longestPalindrome(self, s):
+    def myAtoi(self, str):
         """
-        :type s: str
-        :rtype: str
+        :type str: str
+        :rtype: int
         """
-        #超时了
-        if not s:return s
-        def isPalindrome(left,right):
-            i=left
-            j=right
-            while i<j:
-                if s[i]!=s[j]:
-                    return False
-                i+=1
-                j-=1
-            return True   
-        l=len(s)
-        left=0
-        right=l-1
-        leftPal=0
-        rightPal=0
-        while left<l:
-            right=l-1
-            while left<right:
-                if s[left]==s[right]:
-                    if isPalindrome(left,right):
-                        if right-left>rightPal-leftPal:
-                            rightPal=right
-                            leftPal=left
-                        break
-                right-=1            
-            left+=1            
-        return s[leftPal:rightPal+1]     
-```
-
-## c solution
-```c
-//注意 如果lo hi写到函数外面 则在提交时如果上一次的hi-lo大于本次的,则会继续使用上一次的值 所以会出现错误
-void expand(char* s,int a,int b,int len,int *lo,int *hi)
-{
-    int left=a,right=b;
-    int m=0,n=0;
-    while(left>=0&&right<len)
-    {  
-        if(s[left]==s[right])
-        {
-            m=left;
-            n=right;
-            left--;
-            right++;
-        } 
-        else break;
-    }
-    if(*hi-*lo<n-m)
-    {
-        *hi=n;
-        *lo=m;
-    }
-    
-}
-char* longestPalindrome(char* s) {
-    int len=strlen(s);
-    int lo=0,hi=0;
-    if(len < 2) return s;
-    for(int i=0;i<len-1;i++)
-    {
-        //分别讨论回文字符串长度为偶数和奇数的情况
-        expand(s,i,i,len,&lo,&hi);
-        expand(s,i,i+1,len,&lo,&hi);
-    }  
-    
-    char *sub=(char*)malloc(sizeof(char)*(hi-lo+2));
-    memcpy(sub, s+lo, sizeof(char)*(hi-lo+1));
-    sub[hi-lo+1]='\0';
-    return sub;
-}
+        if not str:return 0
+        l=len(str)
+        integer=0
+        i=0
+        flag=1
+        #首先去掉队首的空格
+        while i<l and str[i]==' ':
+            i+=1
+        if i>=l:return 0 
+        #若第一个非空格字符不是数字也不是正负号 则返回0
+        if not(ord(str[i])>=ord('0')and ord(str[i])<=ord('9'))and str[i]is not'+'and str[i]is not'-':
+            return 0
+        #若第一个非空格字符是正负号 则i+1 置符号位
+        if str[i]=='+' or str[i]=='-':
+            if str[i]=='+':
+                i=i+1
+            else:
+                i=i+1
+                flag=-1
+        if i>=l:return 0
+        #若正负号后第一个字符不是数字则返回0
+        if not(ord(str[i])>=ord('0')and ord(str[i])<=ord('9')): return 0
+        #去掉数字队列开头的0
+        while i<l and str[i]=='0':
+            i+=1   
+        if i>=l:return 0 
+        while i<l and ord(str[i])>=ord('0')and ord(str[i])<=ord('9'):
+            integer+=ord(str[i])-ord('0')
+            integer*=10
+            i+=1
+        #多乘了一个10 因此要除回来
+        integer=flag*int(integer/10)
+        if integer>= 2147483647:
+            return 2147483647
+        if integer<=-2147483648:
+            return -2147483648
+        return  integer
+             
 ```

@@ -1,5 +1,7 @@
 # 8. String to Integer (atoi)
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/5.%20Longest%20Palindromic%20Substring/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/8.%20String%20to%20Integer%20-atoi/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/8.%20String%20to%20Integer%20-atoi/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/8.%20String%20to%20Integer%20-atoi/example2.png"/>
 
 ## python solution
 ```python

@@ -52,7 +52,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 21 - Problem 30
 
-* #### Problem 21 
+* #### Problem 21 (Easy) [*Merge Two Sorted Lists*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/21.%20Merge%20Two%20Sorted%20Lists/README.md)
 * #### Problem 22 (Medium) [*Generate Parentheses*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/22.%20Generate%20Parentheses/README.md)
 * #### Problem 23 
 * #### Problem 24 

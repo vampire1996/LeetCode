@@ -92,6 +92,7 @@ class Solution:
 
 ## c solution
 ```c
+//注意 如果lo hi写到函数外面 则在提交时如果上一次的hi-lo大于本次的,则会继续使用上一次的值 所以会出现错误
 void expand(char* s,int a,int b,int len,int *lo,int *hi)
 {
     int left=a,right=b;

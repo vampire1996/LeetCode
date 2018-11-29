@@ -1,5 +1,5 @@
 # 15. 3Sum
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/8.%20String%20to%20Integer%20-atoi/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/15.%203Sum/problem.png"/>
 
 
 ## python solution

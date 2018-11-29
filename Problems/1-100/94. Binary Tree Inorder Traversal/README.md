@@ -1,5 +1,8 @@
 # 94. Binary Tree Inorder Traversal
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/5.%20Longest%20Palindromic%20Substring/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/94.%20Binary%20Tree%20Inorder%20Traversal/problem.png"/>
+
+## Morris Traversal
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/94.%20Binary%20Tree%20Inorder%20Traversal/Morris%20Traversal.png"/>
 
 ## python solution
 ```python

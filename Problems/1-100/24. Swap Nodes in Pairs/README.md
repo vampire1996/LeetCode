@@ -1,5 +1,5 @@
 # 24. Swap Nodes in Pairs
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/24.%20Swap%20Nodes%20in%20Pairs/problem.png"/>
 
 ## c solution
 ```c

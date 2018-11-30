@@ -1,6 +1,6 @@
 # 29. Divide Two Integers
 
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/24.%20Swap%20Nodes%20in%20Pairs/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/29.%20Divide%20Two%20Integers/problem.png"/>
 
 
 

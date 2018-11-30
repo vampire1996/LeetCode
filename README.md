@@ -55,7 +55,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 21 (Easy) [*Merge Two Sorted Lists*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/21.%20Merge%20Two%20Sorted%20Lists/README.md)
 * #### Problem 22 (Medium) [*Generate Parentheses*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/22.%20Generate%20Parentheses/README.md)
 * #### Problem 23 
-* #### Problem 24 
+* #### Problem 24 (Medium) [*Swap Nodes in Pairs*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/24.%20Swap%20Nodes%20in%20Pairs/README.md)
 * #### Problem 25
 * #### Problem 26 (Easy) [*Remove Duplicates*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/26.RemoveDuplicatesfromSortedArray/README.md)
 * #### Problem 27 (Easy) [*Remove Element*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/27.RemoveElement/README.md)

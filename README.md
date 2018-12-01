@@ -65,7 +65,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ## Problem 31 - Problem 40
 
-* #### Problem 31 (Easy)
+* #### Problem 31 (Medium) [*Next Permutation*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/31.%20Next%20Permutation/README.md)
 * #### Problem 32 (Easy)
 * #### Problem 33 (Easy)
 * #### Problem 34 (Easy)

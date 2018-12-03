@@ -67,7 +67,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 31 (Medium) [*Next Permutation*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/31.%20Next%20Permutation/README.md)
 * #### Problem 32 (Easy)
-* #### Problem 33 (Easy)
+* #### Problem 33 (Medium) [*Search in Rotated Sorted Array*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/33.%20Search%20in%20Rotated%20Sorted%20Array/README.md)
 * #### Problem 34 (Easy)
 * #### Problem 35 (Easy) [*Search Insert Position*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/35.SearchInsertPosition/README.md)
 * #### Problem 36 (Easy)

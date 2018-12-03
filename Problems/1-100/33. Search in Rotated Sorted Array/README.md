@@ -1,5 +1,5 @@
 # 33. Search in Rotated Sorted Array
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/2.AddTwoNumbers/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/33.%20Search%20in%20Rotated%20Sorted%20Array/problem.png"/>
 
 ## python solution
 ```python

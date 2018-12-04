@@ -1,5 +1,5 @@
 # 34. Find First and Last Position of Element in Sorted Array
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/86.%20Partition%20List/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/problem.png"/>
 
 ## python solution
 ```python

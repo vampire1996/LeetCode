@@ -152,7 +152,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 96 (Medium) [*Unique Binary Search Trees*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/96.%20Unique%20Binary%20Search%20Trees/README.md)
 * #### Problem 93 (Easy) 
 * #### Problem 97 (Easy) 
-* #### Problem 98 (Easy) 
+* #### Problem 98 (Medium) [*Validate Binary Search Tree*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/98.%20Validate%20Binary%20Search%20Tree/README.md)
 * #### Problem 99 (Easy) 
 * #### Problem 100 (Easy) [*Same Tree*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/100.%20Same%20Tree/README.md)
 

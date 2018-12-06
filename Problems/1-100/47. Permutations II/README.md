@@ -1,5 +1,5 @@
 # 47. Permutations II
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/46.Permutations/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/47.%20Permutations%20II/problem.png"/>
 
 ## python solution
 ```python

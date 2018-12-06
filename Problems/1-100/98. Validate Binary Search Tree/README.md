@@ -1,5 +1,6 @@
 # 98. Validate Binary Search Tree
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/98.%20Validate%20Binary%20Search%20Tree/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/98.%20Validate%20Binary%20Search%20Tree/example.png"/>
 
 ## python solution
 ```python

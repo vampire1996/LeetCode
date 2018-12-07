@@ -87,7 +87,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 47 (Medium) [*Permutations II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/47.%20Permutations%20II/README.md)
 * #### Problem 48 (Medium) [*Rotate Image*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/48.%20Rotate%20Image/README.md)
 * #### Problem 49 (Medium) [*Group Anagrams*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/49.GroupAnagrams/README.md)
-* #### Problem 50 (Easy)
+* #### Problem 50 (Medium) [*Pow(x, n)*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/50.%20Pow-x-%20n/README.md)
 
 ## Problem 51 - Problem 60
 

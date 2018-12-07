@@ -1,5 +1,7 @@
 # 89. Gray Code
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/112.%20Path%20Sum/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/89.%20Gray%20Code/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/89.%20Gray%20Code/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/89.%20Gray%20Code/example2.png"/>
 
 ## python solution
 ```python

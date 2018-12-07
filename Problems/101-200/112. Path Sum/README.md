@@ -1,6 +1,5 @@
 # 112. Path Sum
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/50.%20Pow-x-%20n/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/50.%20Pow-x-%20n/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/112.%20Path%20Sum/problem.png"/>
 
 ## python solution
 ```python

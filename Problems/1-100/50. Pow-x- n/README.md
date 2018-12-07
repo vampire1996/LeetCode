@@ -1,5 +1,6 @@
 # 50. Pow(x, n)
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/50.%20Pow-x-%20n/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/50.%20Pow-x-%20n/example.png"/>
 
 ## python solution
 ```python

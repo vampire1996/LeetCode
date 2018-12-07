@@ -139,7 +139,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 86 (Medium) [*Partition List*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/86.%20Partition%20List/README.md)
 * #### Problem 87 (Easy) 
 * #### Problem 88 (Easy) [*Merge Sorted Array*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/88.MergeSortedArray/README.md)
-* #### Problem 89 (Easy) 
+* #### Problem 89 (Medium) [*Gray Code*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/89.%20Gray%20Code/README.md)
 * #### Problem 90 (Easy) 
 
 ## Problem 91 - Problem 100

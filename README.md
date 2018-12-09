@@ -74,7 +74,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 37 (Easy)
 * #### Problem 38 (Easy) [*Count And Say*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/38.%20Count%20and%20Say/README.md)
 * #### Problem 39 (Medium) [*Combination Sum*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/39.%20Combination%20Sum/README.md)
-* #### Problem 40 (Easy)
+* #### Problem 40 (Medium) [*Combination Sum II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/40.%20Combination%20Sum%20II/README.md)
 
 ## Problem 41 - Problem 50
 

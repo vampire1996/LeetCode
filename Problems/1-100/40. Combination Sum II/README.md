@@ -1,5 +1,6 @@
 # 40. Combination Sum II
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/40.%20Combination%20Sum%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/40.%20Combination%20Sum%20II/example.png"/>
 
 ## python solution
 ```python
@@ -46,8 +47,8 @@ class Solution(object):
         return res
 ```
 
-## python solution
-```python
+## java solution
+```java
 //BFS--backtrack
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {

@@ -1,5 +1,5 @@
 # 165. Compare Version Numbers
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/165.%20Compare%20Version%20Numbers/problem.png"/>
 
 ## python solution
 ```python

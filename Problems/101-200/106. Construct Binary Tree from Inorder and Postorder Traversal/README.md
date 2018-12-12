@@ -1,5 +1,5 @@
 # 106. Construct Binary Tree from Inorder and Postorder Traversal
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal/problem.png"/>
 
 
 ## python solution

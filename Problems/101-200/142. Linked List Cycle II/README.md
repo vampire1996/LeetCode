@@ -39,3 +39,58 @@ class Solution(object):
             node=node.next
         return None
 ```
+
+## java solution
+```java
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+//Floyd's algorithm
+
+//                  a        b 
+//         start ------->-------->meeting
+//                      |         |
+//                      <----------
+//                           c
+//         assume fast and slow meets at k steps
+//         k=a+b+r1(b+c) slow runs r1 cycles
+//         2k=a+b+r2(b+c) fast runs r2 cycles
+//         2k=a+b+r2(b+c)=2a+2b+2r1(b+c)
+//         (b+c)(r2-2r1)=a+b => (b+c)n=a+b
+//         a=(n-1)b+nc=(n-1)(b+c)+c which means when slow moves (n-1) cycles and c, start moves a
+/*
+不一定要 a = c 满足a = (n-1)(b+c)+c这个式子就可以， 快指针返回头节点，慢指针在原地不
+动，然后两个指针在一起一同样的速度走，如果a很长环很小，就说明慢指针可能在环里走了好多圈才
+等来了快指针
+*/
+public class Solution {
+    public ListNode detectCycle(ListNode head) {
+        if(head==null)return null;
+        ListNode fast=head,slow=head;
+        while(fast.next!=null&&fast.next.next!=null)
+        {
+            slow=slow.next;
+            fast=fast.next.next;
+            if(slow==fast)//有环路
+            {
+                slow=head;
+                while(slow!=fast)
+                {
+                    slow=slow.next;
+                    fast=fast.next;
+                }
+                return slow;
+            }
+        }
+        return null;
+    }
+}
+```

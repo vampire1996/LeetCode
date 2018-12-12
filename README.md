@@ -211,7 +211,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 141 - Problem 150
 
 * #### Problem 141 (Easy) [*Linked List Cycle*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/141.%20Linked%20List%20Cycle/README.md)
-* #### Problem 142 (Easy)
+* #### Problem 142 (Medium) [*Linked List Cycle II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/142.%20Linked%20List%20Cycle%20II/README.md)
 * #### Problem 143 (Medium) [*Reorder List*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/143.%20Reorder%20List/README.md)
 * #### Problem 144 (Easy)
 * #### Problem 145 (Easy)

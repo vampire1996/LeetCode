@@ -1,5 +1,7 @@
 # 142. Linked List Cycle II
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/231.PowerOfTwo/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/142.%20Linked%20List%20Cycle%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/142.%20Linked%20List%20Cycle%20II/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/142.%20Linked%20List%20Cycle%20II/followup.png"/>
 
 ## python solution
 ```python

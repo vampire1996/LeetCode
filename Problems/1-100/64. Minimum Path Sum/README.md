@@ -1,6 +1,5 @@
 # 64. Minimum Path Sum
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/27.RemoveElement/problem.png "/>
-
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/64.%20Minimum%20Path%20Sum/problem.png"/>
 
 ## python solution
 ```python

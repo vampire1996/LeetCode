@@ -8,7 +8,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 ### Blog
 
-* #### [Link](https://peefy.github.io)
+* #### [Link](http://sometimesn.coding.me/blog/)
 
 ### Code Source
 

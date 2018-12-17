@@ -48,6 +48,9 @@ class Solution {
             public int compare(String s1,String s2)
             {
                 //s2.length()-s1.length()--倒序 s1.length()-s2.length()--正序
+                //int compare(T o1, T o2) 是比较o1和o2的大小
+                //如果返回值为负数意味着o1比o2小，否则返回为零意味着o1等于o2，返回为正数意味着o1大于o2
+                //假如o1的值大于o2，你返回1，此时调用Collections.sort()函数就是升序；假如o1的值大于o2，你返回-1，此时调用Collections.sort()函数就是降序。
                 return s2.length()-s1.length();
             }
         });

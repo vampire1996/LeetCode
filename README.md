@@ -706,7 +706,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 ## Problem 521 - Problem 530
 
 * #### Problem 521 (Easy) [*Longest Uncommon Subsequence I*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/521.LongestUncommonSubsequence%20I/README.md)
-* #### Problem 522 (Easy)
+* #### Problem 522 (Medium) [*Longest Uncommon Subsequence II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/501-600/522.%20Longest%20Uncommon%20Subsequence%20II/README.md)
 * #### Problem 523 (Easy)
 * #### Problem 524 (Easy)
 * #### Problem 525 (Easy)

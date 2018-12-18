@@ -1,5 +1,6 @@
 # 110. Balanced Binary Tree
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/74.%20Search%20a%202D%20Matrix/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/110.%20Balanced%20Binary%20Tree/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/110.%20Balanced%20Binary%20Tree/example.png"/>
 
 ## python solution
 ```python

@@ -180,7 +180,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 117 (Easy) 
 * #### Problem 118 (Easy) [*Pascal's Triangle*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/118.PascalsTriangle/README.md) 
 * #### Problem 119 (Easy) 
-* #### Problem 120 (Easy) 
+* #### Problem 120 (Medium) [*Triangle*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/120.%20Triangle/README.md)
 
 ## Problem 121 - Problem 130
 

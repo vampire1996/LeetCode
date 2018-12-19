@@ -35,8 +35,8 @@ class Solution(object):
 ```
 
 
-## python solution
-```python
+## java solution
+```java
 /*
 采用自底而上(bottom up)的动态规划算法
 如果已知triangle中  某一位置及其左右两个"孩子" a  则经过a到底的路径一定是a+min(b,c)

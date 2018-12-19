@@ -124,7 +124,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 75 (Medium) [*Sort Colors*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/75.%20Sort%20Colors/README.md) 
 * #### Problem 76 (Easy) 
 * #### Problem 77 (Medium) [*Combinations*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/77.%20Combinations/README.md) 
-* #### Problem 78 (Easy) 
+* #### Problem 78 (Medium) [*Subsets*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/78.%20Subsets/README.md) 
 * #### Problem 79 (Easy) 
 * #### Problem 80 (Easy)
 

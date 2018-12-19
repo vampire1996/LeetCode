@@ -26,7 +26,8 @@ class Solution(object):
         def binarySearch(res):
             lo,hi=0,len(res)
             while lo<hi:
-                mi=int((lo+hi)/2)
+            #在计算 mid 时不能使用 mid = (l + h) / 2 这种方式，因为 l + h 可能会导致加法溢出，应该使用 mid = l + (h - l) / 2。
+                mi=lo+int((hi-lo)/2)
                 if res[mi]==target:return True
                 elif res[mi]>target:hi=mi
                 else:lo=mi+1
@@ -69,13 +70,14 @@ class Solution {
     /*
     分别对行和列进行二叉搜索O(log(m))+O(log(n))
     */
+    //在计算 mid 时不能使用 mid = (l + h) / 2 这种方式，因为 l + h 可能会导致加法溢出，应该使用 mid = l + (h - l) / 2。
     public boolean searchMatrix(int[][] matrix, int target) {
         if(matrix==null||matrix.length==0)return false;
         if(matrix[0]==null||matrix[0].length==0)return false;
         int lo=0,hi=matrix.length,mi=(lo+hi)/2;
         while(lo<hi)
         {
-            mi=(lo+hi)/2;
+            mi=lo+(hi-lo)/2;
             if(matrix[mi][0]==target)return true;
             else if(matrix[mi][0]<target)lo=mi+1;
             else hi=mi;
@@ -87,7 +89,7 @@ class Solution {
         int temp=matrix[mi][0]>target&&mi>0?mi-1:mi;
         while(lo<hi)
         {
-            mi=(lo+hi)/2;
+            mi=lo+(hi-lo)/2;
             if(matrix[temp][mi]==target)return true;
             else if(matrix[temp][mi]<target)lo=mi+1;
             else hi=mi; 

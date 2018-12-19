@@ -41,7 +41,8 @@ class Solution(object):
 采用自底而上(bottom up)的动态规划算法
 如果已知triangle中  某一位置及其左右两个"孩子" a  则经过a到底的路径一定是a+min(b,c)
                                            b c
-根据这种思路 我们从triangle的最后一行开始 每个位置记录从该位置出发到底的最小路径和                                 则有 triangle[i][j]=min(triangle[i+1][j],triangle[i+1][j+1])+triangle[i][j] 
+根据这种思路 我们从triangle的最后一行开始 每个位置记录从该位置出发到底的最小路径和 
+则有 triangle[i][j]=min(triangle[i+1][j],triangle[i+1][j+1])+triangle[i][j] 
 则triangle[0][0] 最终存储的就是最小路径和
 */
 class Solution {

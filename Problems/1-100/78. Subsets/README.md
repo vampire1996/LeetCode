@@ -1,6 +1,5 @@
 # 78. Subsets
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/74.%20Search%20a%202D%20Matrix/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/74.%20Search%20a%202D%20Matrix/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/78.%20Subsets/problem.png"/>
 
 ## python solution
 ```python

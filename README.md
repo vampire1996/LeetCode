@@ -125,7 +125,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 76 (Easy) 
 * #### Problem 77 (Medium) [*Combinations*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/77.%20Combinations/README.md) 
 * #### Problem 78 (Medium) [*Subsets*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/78.%20Subsets/README.md) 
-* #### Problem 79 (Easy) 
+* #### Problem 79 (Medium) [*Word Search*](https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/79.%20Word%20Search/README.md) 
 * #### Problem 80 (Easy)
 
 

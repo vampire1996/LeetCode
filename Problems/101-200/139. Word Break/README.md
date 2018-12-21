@@ -1,5 +1,6 @@
 # 139. Word Break
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/264.%20Ugly%20Number%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/139.%20Word%20Break/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/139.%20Word%20Break/example.png"/>
 
 ## python solution
 ```python

@@ -13,7 +13,7 @@ DP O(n^2)---1+2+3+...+n
 false，因此我们循环到下一个wordDict即pen，将字符串划分为前面的apple和后面的pen，而后面的pen确实存在，dp[4] = true，所以确实可以划分，因此dp[7]= 
 true。
 Input: s = "leetcode", wordDict = ["leet", "code"]
-      dp  FFFFTFFFT  dp[-1]=True     
+        dp  FFFFTFFFT  dp[-1]=True     
 """
 class Solution(object):
     def wordBreak(self, s, wordDict):
@@ -48,6 +48,7 @@ class Solution(object):
 
 ## java solution
 ```java
+//BFS solution 
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         int max_len=-1;

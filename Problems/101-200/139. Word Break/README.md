@@ -8,7 +8,10 @@
 DP O(n^2)---1+2+3+...+n
 思路整理:
 1)res 存储s中每个位置 到该位置能否分裂成wordDict中单词
-举个例子：字符串为applepen 和 wordDict为apple，pen。当我们遍历到字母n的时候我们从n开始向前找看看有没有apple：即字符串被分为app和lepen（因为apple的长度为5，我们期待lepen可能为apple，若lepen确实为apple，app也能够被break（即dp[2] = true)，那么我们将dp[7] = true,但lepen不为apple而且dp[2]为false，因此我们循环到下一个wordDict即pen，将字符串划分为前面的apple和后面的pen，而后面的pen确实存在，dp[4] = true，所以确实可以划分，因此dp[7]= true。
+举个例子：字符串为applepen 和 wordDict为apple，pen。当我们遍历到字母n的时候我们从n开始向前找看看有没有apple：即字符串被分为app和lepen（因为apple
+的长度为5，我们期待lepen可能为apple，若lepen确实为apple，app也能够被break（即dp[2] = true)，那么我们将dp[7] = true,但lepen不为apple而且dp[2]为
+false，因此我们循环到下一个wordDict即pen，将字符串划分为前面的apple和后面的pen，而后面的pen确实存在，dp[4] = true，所以确实可以划分，因此dp[7]= 
+true。
 Input: s = "leetcode", wordDict = ["leet", "code"]
       dp  FFFFTFFFT  dp[-1]=True     
 """

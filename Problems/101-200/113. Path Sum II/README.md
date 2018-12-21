@@ -1,6 +1,5 @@
 # 113. Path Sum II
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/139.%20Word%20Break/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/139.%20Word%20Break/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/113.%20Path%20Sum%20II/problem.png"/>
 
 ## python solution
 ```python

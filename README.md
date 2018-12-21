@@ -369,7 +369,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 261 (Easy)
 * #### Problem 262 (Easy)
 * #### Problem 263 (Easy) [*Ugly Number*](https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/263.UglyNumber/README.md)
-* #### Problem 264 (Easy)
+* #### Problem 264 (Medium) [*Ugly Number II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/264.%20Ugly%20Number%20II/README.md)
 * #### Problem 265 (Easy)
 * #### Problem 266 (Easy)
 * #### Problem 267 (Easy)

@@ -205,7 +205,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 136 (Easy) [*Single Number*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/136.%20Single%20Number/README.md) 
 * #### Problem 137 (Easy)
 * #### Problem 138 (Easy)
-* #### Problem 139 (Easy)
+* #### Problem 139 (Medium) [*Word Break*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/139.%20Word%20Break/README.md)
 * #### Problem 140 (Easy)
 
 ## Problem 141 - Problem 150

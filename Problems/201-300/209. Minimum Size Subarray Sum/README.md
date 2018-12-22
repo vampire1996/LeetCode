@@ -1,6 +1,5 @@
 # 209. Minimum Size Subarray Sum
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/63.%20Unique%20Paths%20II/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/63.%20Unique%20Paths%20II/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/209.%20Minimum%20Size%20Subarray%20Sum/problem.png"/>
 
 ## python solution
 ```python

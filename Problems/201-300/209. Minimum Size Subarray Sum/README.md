@@ -3,7 +3,41 @@
 
 ## python solution
 ```python
-     
+class Solution(object):
+    def minSubArrayLen(self, s, nums):
+        """
+        :type s: int
+        :type nums: List[int]
+        :rtype: int
+        """
+        """
+        O(nlogn)
+        1)用numSum存储nums从第一个元素到第i个元素的和
+        2)利用二分查找找到与当前nums[i]相差大于等于s的最小索引end 
+        也就是end-i为满足nums[i+1]+...nums[end]>=s 的最小值
+        3)如果二分查找结果end==length+1 也就是说sum(nums)<s 无法找到符合条件的子数组
+        4)二分查找一定会找到大于等于numSum[i]+s的最小索引，证明如下
+        numSum[i]=4 numSum[i+1]=6 target=5
+        lo=mi=i   hi=6   numSum[mi]=4<5  lo=mi+1=i+1退出 返回i+1
+        由于在如下二分查找算法中 取值范围是[lo,hi) 所以mi不会取到hi
+        """
+        if not nums:return 0
+        def binarySearch(numSum,lo,hi,target):
+            while lo<hi:
+                mi=lo+int(hi-lo)/2
+                if numSum[mi]>=target:hi=mi
+                else:lo=mi+1
+            return lo
+        length,l=len(nums),2147483647
+        hi,lo=length,0
+        numSum=[0 for i in range(length+1)]
+        for j in range(1,length+1):#O(n)
+            numSum[j]=nums[j-1]+numSum[j-1]
+        for i in range(length):
+            end=binarySearch(numSum,i+1,length+1,numSum[i]+s)
+            if end==length+1:break
+            if end-i<l:l=end-i
+        return l if l!=2147483647 else 0     
 ```
 
 ## python3 solution

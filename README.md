@@ -193,7 +193,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 127 (Easy) 
 * #### Problem 128 (Easy) 
 * #### Problem 129 (Medium) [*Sum Root to Leaf Numbers*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/129.%20Sum%20Root%20to%20Leaf%20Numbers/README.md) 
-* #### Problem 130 (Easy) 
+* #### Problem 130 (Medium) [*Surrounded Regions*](https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/130.%20Surrounded%20Regions/README.md) 
 
 ## Problem 131 - Problem 140
 

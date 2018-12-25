@@ -1,6 +1,5 @@
 # 200. Number of Islands
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/problem.png"/>
-<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/example.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/200.%20Number%20of%20Islands/problem.png"/>
 
 ## python solution
 ```python

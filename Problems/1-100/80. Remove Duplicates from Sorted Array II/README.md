@@ -1,5 +1,6 @@
 # 80. Remove Duplicates from Sorted Array II
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/1-100/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/example.png"/>
 
 ## python solution
 ```python

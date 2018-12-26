@@ -1,5 +1,5 @@
 # 151. Reverse Words in a String
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/151.%20Reverse%20Words%20in%20a%20String/problem.png"/>
 
 ## python solution
 ```python

@@ -303,7 +303,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 
 * #### Problem 211 (Easy)
 * #### Problem 212 (Easy)
-* #### Problem 213 (Easy)
+* #### Problem 213 (Medium) [*House Robber II*](https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/213.%20House%20Robber%20II/README.md) 
 * #### Problem 214 (Easy)
 * #### Problem 215 (Easy)
 * #### Problem 216 (Easy)

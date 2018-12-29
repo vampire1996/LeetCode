@@ -387,7 +387,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 276 (Easy)
 * #### Problem 277 (Easy)
 * #### Problem 278 (Easy)
-* #### Problem 279 (Easy)
+* #### Problem 279 (Medium) [*Perfect Squares*](https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/279.%20Perfect%20Squares/README.md)
 * #### Problem 280 (Easy)
 
 ## Problem 281 - Problem 290

@@ -414,7 +414,7 @@ These are LeetCode code solution files of Peefy contains C++, C#, Java, Python.
 * #### Problem 297 (Easy)
 * #### Problem 298 (Easy)
 * #### Problem 299 (Easy)
-* #### Problem 300 (Medium) [*Longest Increasing Subsequence*]https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/300.%20Longest%20Increasing%20Subsequence/README.md)
+* #### Problem 300 (Medium) [*Longest Increasing Subsequence*](https://github.com/vampire1996/LeetCode/blob/master/Problems/201-300/300.%20Longest%20Increasing%20Subsequence/README.md)
 
 ## Problem 301 - Problem 310
 

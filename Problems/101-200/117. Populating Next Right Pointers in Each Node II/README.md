@@ -1,5 +1,6 @@
 # 117. Populating Next Right Pointers in Each Node II
-<img src="https://github.com/vampire1996/-leetcode/blob/master/Problems/1-100/1.TwoSum/problem.png "/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/problem.png"/>
+<img src="https://github.com/vampire1996/LeetCode/blob/master/Problems/101-200/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/example.png"/>
 
 ## python solution
 ```python
